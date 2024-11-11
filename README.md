@@ -1,3 +1,3 @@
 # Flu_Spread_Simulation
 
-First task for Simulation Techniques - solving a problem using Monte Carlo simulation
+Tema 1 - rezolvarea unuei probleme folosind simularea Monte Carlo
